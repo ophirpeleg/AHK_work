@@ -113,10 +113,10 @@ return
         Send, 3
     Else
         Send, 00D8e000000RwwI
-		Send, {TAB}
-		Send, admin@dcs5.1v.com
-		Send, {TAB}
-		Send, Dotbcs01
-		Send, {TAB}
-		Send, j9eQ6gVX8iGoBcZWx9pDjmBA
+	Send, {TAB}
+	Send, admin@dcs5.1v.com
+	Send, {TAB}
+	Send, Dotbcs01
+	Send, {TAB}
+	Send, j9eQ6gVX8iGoBcZWx9pDjmBA
 return
