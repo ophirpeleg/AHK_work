@@ -4,6 +4,7 @@
 #SingleInstance
 
 ; Microsoft webpage for Excel shortcuts: https://support.microsoft.com/en-gb/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f
+; Icons: https://www.urtech.ca/wp-content/uploads/2022/07/free-windows-system-icons-inside-c-windows-shell32-dll-with-their-numbers-1536x856.jpg
 ;^ Ctrl
 ;! Alt
 ;+ Shift
