@@ -112,7 +112,7 @@ return
 ^F11::  ; This is the hotkey for Ctrl+F11
     If (IsIconA)
         Send, 3
-    Else
+    Else {
         Send, 00D8e000000RwwI
 	Send, {TAB}
 	Send, admin@dcs5.1v.com
@@ -120,4 +120,5 @@ return
 	Send, Dotbcs01
 	Send, {TAB}
 	Send, j9eQ6gVX8iGoBcZWx9pDjmBA
+	}
 return
